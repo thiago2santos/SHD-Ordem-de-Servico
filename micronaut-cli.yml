@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.empresa
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-secrets-manager, aws-v2-sdk, data, data-jpa, gradle, hibernate-jpa, http-client, jax-rs, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-extension-functions, logback, mockito, netty-server, postgres, readme, redis-lettuce, shade, spring, spring-data-jpa, testcontainers, tracing-jaeger, yaml]
